@@ -3,7 +3,7 @@
 
 ---
 
-##🎯 Objectifs du lab
+## Objectifs du lab
 
 Créer une application **Chronomètre Service** entièrement en Java qui utilise :
 
